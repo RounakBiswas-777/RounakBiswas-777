@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- 1. Custom Handcrafted Animated Artist Hero Banner -->
-<img src="./banner.svg" width="100%" alt="Rounak Biswas — Visual Artist & Computer Science Student" />
+<img src="https://raw.githubusercontent.com/RounakBiswas-777/RounakBiswas-777/main/banner.svg" width="100%" alt="Rounak Biswas — Visual Artist & Computer Science Student" />
 
 <br />
 
@@ -15,7 +15,7 @@
 <br /><br />
 
 <!-- 3. Custom Animated Dark-Glass Bento Grid -->
-<img src="./bento.svg" width="100%" alt="Rounak Biswas — Craft, Stack & Workflows Bento Grid" />
+<img src="https://raw.githubusercontent.com/RounakBiswas-777/RounakBiswas-777/main/bento.svg" width="100%" alt="Rounak Biswas — Craft, Stack & Workflows Bento Grid" />
 
 <br /><br />
 
