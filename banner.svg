@@ -1,11 +1,13 @@
 <svg width="850" height="320" viewBox="0 0 850 320" fill="none" xmlns="http://www.w3.org/2000/svg">
   <defs>
+    <!-- Studio Obsidian Base -->
     <linearGradient id="bgBase" x1="0" y1="0" x2="850" y2="320" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#060911"/>
       <stop offset="50%" stop-color="#0B1122"/>
       <stop offset="100%" stop-color="#070B15"/>
     </linearGradient>
 
+    <!-- Animated Aurora Glows -->
     <radialGradient id="orbRose" cx="50%" cy="50%" r="50%">
       <stop offset="0%" stop-color="#F43F5E" stop-opacity="0.52"/>
       <stop offset="55%" stop-color="#E11D48" stop-opacity="0.16"/>
@@ -28,6 +30,7 @@
       <stop offset="100%" stop-color="#060911" stop-opacity="0"/>
     </radialGradient>
 
+    <!-- Editorial Title Gradient -->
     <linearGradient id="titleGrad" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#FFFFFF"/>
       <stop offset="45%" stop-color="#E2E8F0"/>
@@ -35,6 +38,7 @@
       <stop offset="100%" stop-color="#FB7185"/>
     </linearGradient>
 
+    <!-- Generative Art Ribbon Gradients -->
     <linearGradient id="artStroke1" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#38BDF8"/>
       <stop offset="50%" stop-color="#818CF8"/>
@@ -53,6 +57,7 @@
       <stop offset="100%" stop-color="#C084FC"/>
     </linearGradient>
 
+    <!-- Border & Glass Sheen Gradients -->
     <linearGradient id="frameBorder" x1="0" y1="0" x2="850" y2="320" gradientUnits="userSpaceOnUse">
       <stop offset="0%" stop-color="#38BDF8" stop-opacity="0.72"/>
       <stop offset="50%" stop-color="#818CF8" stop-opacity="0.45"/>
@@ -82,9 +87,7 @@
     .orb-4 { animation: floatB 9.5s ease-in-out 1.5s infinite; transform-origin: 420px 60px; }
 
     /* Diagonal Glass Sheen Sweep */
-    .sheen-sweep {
-      animation: sweepAcross 6.2s cubic-bezier(0.4, 0, 0.2, 1) infinite;
-    }
+    .sheen-sweep { animation: sweepAcross 6.2s cubic-bezier(0.4, 0, 0.2, 1) infinite; }
 
     /* Generative Bezier Brush Strokes */
     .art-draw-1 {
