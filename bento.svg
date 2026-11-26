@@ -40,7 +40,7 @@
     <rect x="2" y="2" width="514" height="168" rx="18" stroke="#1E293B" stroke-width="1.5" fill="none"/>
     <rect x="26" y="2" width="128" height="3" rx="1.5" fill="url(#gradRose)"/>
 
-    <text x="26" y="38" fill="#FB7185" font-family="Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="1.6">01 // VISUAL ARTIST × ENGINEER</text>
+    <text x="26" y="38" fill="#FB7185" font-family="Consolas, 'Courier New', monospace" font-size="11.5" font-weight="700" letter-spacing="1.6">01 // VISUAL ARTIST AND ENGINEER</text>
     <text x="26" y="70" fill="#F8FAFC" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="21" font-weight="800">Crafting Interfaces With Intent</text>
 
     <text x="26" y="100" fill="#94A3B8" font-family="'Segoe UI', -apple-system, BlinkMacSystemFont, sans-serif" font-size="13.8" font-weight="500">As an artist &amp; Computer Science &amp; Technology student, I treat</text>
