@@ -15,7 +15,7 @@
 <br /><br />
 
 <!-- 3. Custom Animated Dark-Glass Bento Grid -->
-<img src="https://raw.githubusercontent.com/RounakBiswas-777/RounakBiswas-777/main/bento.svg" width="100%" alt="Rounak Biswas — Craft, Stack & Workflows Bento Grid" />
+<img src="https://raw.githubusercontent.com/RounakBiswas-777/RounakBiswas-777/main/?v=2" width="100%" alt="Rounak Biswas — Craft, Stack & Workflows Bento Grid" />
 
 <br /><br />
 
